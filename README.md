@@ -4,7 +4,7 @@ In clinical applications, neural networks must focus on and highlight the most i
 
 # Results
 ## Soft Attention maps of Skin lesion in Inception ResNet V2 on HAM10000 data
-![alt text](https://github.com/skrantidatta/Attention-based-Skin-Cancer-Classification/blob/main/Images/QRESULT_HAM10000.pdf)
+![alt text](https://github.com/skrantidatta/Attention-based-Skin-Cancer-Classification/blob/main/Images/QRESULT_HAM10000.pdf?raw=true)
 
 
 # Datasets
