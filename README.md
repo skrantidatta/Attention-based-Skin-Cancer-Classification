@@ -4,9 +4,10 @@ In clinical applications, neural networks must focus on and highlight the most i
 
 # Datasets
 
-HAM10000  dataset:
+**HAM10000  dataset**:
+
 Tschandl, P., Rosendahl, C. & Kittler, H. The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions. Sci. Data 5, 180161 doi:10.1038/sdata.2018.161 (2018).Available: https://arxiv.org/abs/1803.10417
 
-ISIC-2017 dataset:
+**ISIC-2017 dataset**:
 
 Codella N, Gutman D, Celebi ME, Helba B, Marchetti MA, Dusza S, Kalloo A, Liopyris K, Mishra N, Kittler H, Halpern A. "Skin Lesion Analysis Toward Melanoma Detection: A Challenge at the 2017 International Symposium on Biomedical Imaging (ISBI), Hosted by the International Skin Imaging Collaboration (ISIC)". arXiv: 1710.05006 [cs.CV] Available: https://arxiv.org/abs/1710.05006
