@@ -2,9 +2,21 @@
 
 In clinical applications, neural networks must focus on and highlight the most important parts of an input image. Soft-Attention mechanism enables a neural network to achieve this goal. This paper investigates the effectiveness of Soft-Attention in deep neural architectures. The central aim of Soft-Attention is to boost the value of important features and suppress the noise-inducing features. We compare the performance of VGG, ResNet, Inception ResNetv2 and DenseNet architectures with and without the Soft-Attention mechanism, while classifying skin lesions. The original network when coupled with Soft-Attention outperforms the baseline by 4.7% while achieving a precision of 93.7% on HAM10000 dataset. Additionally, Soft-Attention coupling improves the sensitivity score by 3.8% compared to baseline and achieves 91.6% on ISIC-2017 dataset.
 
+https://www.medrxiv.org/content/10.1101/2021.05.12.21257114v2
+
 # Results
 ## Soft Attention maps of Skin lesion in Inception ResNet V2 on HAM10000 data
 ![alt text](https://github.com/skrantidatta/Attention-based-Skin-Cancer-Classification/blob/main/Images/QRESULT_HAM10000.jpg?raw=true)
+
+# Citation
+
+@article{datta2021soft,
+  title={Soft-Attention Improves Skin Cancer Classification Performance},
+  author={Datta, Soumyya Kanti and Shaikh, Mohammad Abuzar and Srihari, Sargur N and Gao, Mingchen},
+  journal={arXiv preprint arXiv:2105.03358},
+  year={2021}
+}
+
 
 
 # Datasets
@@ -16,3 +28,4 @@ Tschandl, P., Rosendahl, C. & Kittler, H. The HAM10000 dataset, a large collecti
 **ISIC-2017 dataset**:
 
 Codella N, Gutman D, Celebi ME, Helba B, Marchetti MA, Dusza S, Kalloo A, Liopyris K, Mishra N, Kittler H, Halpern A. "Skin Lesion Analysis Toward Melanoma Detection: A Challenge at the 2017 International Symposium on Biomedical Imaging (ISBI), Hosted by the International Skin Imaging Collaboration (ISIC)". arXiv: 1710.05006 [cs.CV] Available: https://arxiv.org/abs/1710.05006
+
